@@ -29,6 +29,7 @@
 #sideline-stats { --tint: #1b6e3a; }
 #kith { --tint: #6e56f8; }
 #popgrid { --tint: #0891b2; }
+#stickwork { --tint: #ea580c; }
 @media (prefers-color-scheme: dark) {
   #homebase { --tint: #ff7a63; }
   #weigh-in { --tint: #66bb6a; }
@@ -36,6 +37,7 @@
   #sideline-stats { --tint: #4ade80; }
   #kith { --tint: #9d8bff; }
   #popgrid { --tint: #22d3ee; }
+  #stickwork { --tint: #fb923c; }
 }
 
 * { box-sizing: border-box; }
