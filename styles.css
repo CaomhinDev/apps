@@ -27,11 +27,13 @@
 #weigh-in { --tint: #2e7d32; }
 #family5k { --tint: #c2410c; }
 #sideline-stats { --tint: #1b6e3a; }
+#kith { --tint: #6e56f8; }
 @media (prefers-color-scheme: dark) {
   #homebase { --tint: #ff7a63; }
   #weigh-in { --tint: #66bb6a; }
   #family5k { --tint: #fb923c; }
   #sideline-stats { --tint: #4ade80; }
+  #kith { --tint: #9d8bff; }
 }
 
 * { box-sizing: border-box; }

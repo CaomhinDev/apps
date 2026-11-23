@@ -9,6 +9,7 @@ and give the card an `id` with a `--tint` colour in `styles.css`.
 | App | Live at | Source |
 | --- | --- | --- |
 | Homebase | https://homebase-f4c42f.web.app/ | `../SharedHouseChores` |
+| Kith | https://kith-crm-9709ac.web.app/ | `../PersonalCRM` |
 | Weigh In | https://caomhindev.github.io/weigh-in/ | `../Demo1` |
 | Family 5k | https://family5k-d54536.web.app/ | `../Family5k` |
 | Sideline Stats | https://caomhindev.github.io/sideline-stats/ | `../SidelineStats` |
